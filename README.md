@@ -1,5 +1,8 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Haesol%20Jeong,%20DOL-DOM🐟&fontSize=40)
+HELLO THERE ! 🐟
+I'm Haesol Jeong, greatful to be able to reach out to you in this world <3  
+If you're excited about something and ask me to join, Here is my answer already "YESSSSSSS!!! 😍" 
+Love diving into new technology (love the actual diving too)
 
 ### Frontend and Design
 <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
